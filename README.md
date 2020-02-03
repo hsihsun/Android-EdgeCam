@@ -1,2 +1,4 @@
 # Android-EdgeCam
-This my implementation of real-time edge detection on Android with JNI/OpenCV/OpenCL.
+Edge detection on Android with JNI/OpenCV/OpenCL.
+
+<img src="https://github.com/hsihsun/Android-EdgeCam/blob/master/example.jpg"  />
